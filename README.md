@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @AntonioRafa
 - 👀 I’m interested in desenvolvimento de games
 - 🌱 I’m currently learning scratch, alura
-- 💞️ I’m looking to collaborate  com meus colegas
+- ✍️ I’m looking to collaborate  com meus colegas
 - 📫 How to reach me  atrvés das redes sociais
 
 <!---
